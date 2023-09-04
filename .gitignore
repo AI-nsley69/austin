@@ -1,1 +1,4 @@
 pnpn-lock.yaml
+.vscode
+node_modules
+zig-*
